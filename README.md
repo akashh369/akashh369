@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **akashbhandari0101@gmail.com**
 
-- 📄 my Resume [https://drive.google.com/file/d/1XGrLk00lYhsYW-uTke8mfh9Aon_IDzVv/view?usp=sharing]([https://drive.google.com/file/d/1MY02kGUDLWFlS14Vxj9tIfqN6iGaqY4i/view](https://drive.google.com/file/d/1XGrLk00lYhsYW-uTke8mfh9Aon_IDzVv/view?usp=sharing))
+- 📄 [Resume](https://drive.google.com/file/d/1XGrLk00lYhsYW-uTke8mfh9Aon_IDzVv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
