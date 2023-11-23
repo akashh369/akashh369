@@ -34,8 +34,27 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </p>
 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashh369&show_icons=true&locale=en&layout=compact" alt="akashh369" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashh369&show_icons=true&locale=en" alt="akashh369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashh369&" alt="akashh369" /></p>
+ -->
+
+<p align="center">
+	<img
+       height="180em"
+		src="https://github-readme-stats.vercel.app/api?username=akashh369&show_icons=true&locale=en&theme=radical&count_private=true"
+		alt="akashg3627"
+	/>
+  <img
+       height="180em"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=akashh369&show_icons=true&locale=en&layout=compact&theme=radical"
+		alt="akashg3627"
+	/>
+	<img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=akashh369&theme=tokyonight"
+		alt="akashg3627"
+	/>
+</p>
