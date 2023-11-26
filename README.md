@@ -32,7 +32,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </p>
+ <img src="https://static-00.iconduck.com/assets.00/puppeteer-icon-1371x2048-otngklvq.png" alt="redux" width="40" height="40"/> </p>
 
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashh369&show_icons=true&locale=en&layout=compact" alt="akashh369" /></p>
